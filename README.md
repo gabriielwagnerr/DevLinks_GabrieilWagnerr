@@ -18,7 +18,7 @@ DevLinks exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="DevLinks_GabriielWagnerr" src=".github/preview.jpg" width="100%">
+  <img alt="DevLinks_GabriielWagnerr" src=".github/CapaDevLinks.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
